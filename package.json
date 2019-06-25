@@ -12,7 +12,7 @@
   "dependencies": {
     "@xunlei/vue-lazy-component": "^1.0.10",
     "axios": "*",
-    "jquery": "^2.2.3",
+    "jquery": "*",
     "mint-ui": "^2.2.9",
     "vue": "^2.5.2",
     "vue-lazyload": "^1.1.4",
